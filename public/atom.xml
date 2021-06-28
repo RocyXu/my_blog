@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rocy的博客</title>
+  
+  <subtitle>欢迎回来</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-06-27T07:37:49.621Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>我是Rocy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python-字典键值不存在时的处理</title>
+    <link href="http://example.com/2021/06/27/python%E5%AD%97%E5%85%B8%E9%94%AE%E5%80%BC%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%83%85%E5%86%B5/"/>
+    <id>http://example.com/2021/06/27/python%E5%AD%97%E5%85%B8%E9%94%AE%E5%80%BC%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%83%85%E5%86%B5/</id>
+    <published>2021-06-27T07:38:00.000Z</published>
+    <updated>2021-06-27T07:37:49.621Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;python中经常会出现字典键值不存在的情况，可以用&lt;code&gt;get(), setdefault(),</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://example.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python-用*复制列表</title>
+    <link href="http://example.com/2021/06/26/Python%E7%94%A8-%E5%88%9D%E5%A7%8B%E5%8C%96%E7%94%A8%E5%88%97%E8%A1%A8%E7%BB%84%E6%88%90%E7%9A%84%E5%88%97%E8%A1%A8/"/>
+    <id>http://example.com/2021/06/26/Python%E7%94%A8-%E5%88%9D%E5%A7%8B%E5%8C%96%E7%94%A8%E5%88%97%E8%A1%A8%E7%BB%84%E6%88%90%E7%9A%84%E5%88%97%E8%A1%A8/</id>
+    <published>2021-06-26T07:38:00.000Z</published>
+    <updated>2021-06-26T08:34:42.099Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;python中可以用*方便地对列表复制，但是当列表中包含列表则需注意&lt;/p&gt;
+&lt;h2 id=&quot;示例&quot;&gt;&lt;a href=&quot;#示例&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://example.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+  </entry>
+  
+</feed>
